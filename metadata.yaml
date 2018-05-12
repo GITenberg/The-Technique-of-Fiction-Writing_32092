@@ -1,0 +1,26 @@
+_repo: The-Technique-of-Fiction-Writing_32092
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dowst, Robert Saunders
+    birthdate: 1890
+    deathdate: 1959
+    gutenberg_agent_id: '35659'
+    url: http://www.gutenberg.org/2009/agents/35659
+description: ''
+gutenberg_issued: '2010-04-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32092'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction -- Technique'
+- !lcc 'PN'
+title: The Technique of Fiction Writing
+url: http://www.gutenberg.org/ebooks/32092
